@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "PT_Serif-Web-Bold";
+	src: url("../fonts/PT_Serif-Web-Bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "PTZ55F";
+	src: url("../fonts/PTZ55F.ttf") format("truetype");
+}
+@font-face {
+	font-family: "PTZ56F";
+	src: url("../fonts/PTZ56F.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Roboto-Bold";
+	src: url("../fonts/Roboto-Bold.ttf") format("truetype");
+}
+@font-face {
+	font-family: "Roboto-Regular";
+	src: url("../fonts/Roboto-Regular.ttf") format("truetype");
+}
+@font-face {
+	font-family: "TenorSans-Regular";
+	src: url("../fonts/TenorSans-Regular.ttf") format("truetype");
+}
